@@ -1,4 +1,4 @@
-#  Cognitive Performance Prediction | YZTA 2026 Datathon
+#  Cognitive Performance Prediction | GOOGLE Aİ& TECHNOLOGY ACADEMY 2026 Datathon
 
 
 ##  Project Overview
