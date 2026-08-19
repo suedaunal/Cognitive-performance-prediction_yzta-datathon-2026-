@@ -2,7 +2,7 @@
 
 
 ##  Project Overview
-This project was developed as part of the **Google AI & Technology Academy (YZTA) 2026 Datathon**. The core objective was to predict individuals’ cognitive performance scores by leveraging sleep, stress, behavioral, and physiological data.
+This project was developed as part of the **Google AI & Technology Academy (YZTA) 2026 Datathon**. The core objective was to predict individuals’ cognitive performance scores by leveraging sleep, stress, behavioral, and physiological data. Finished in the **Top 20** among 100+ teams, engineering ensemble machine learning pipelines and domain-specific features to predict cognitive performance.
 
 Instead of just fitting baseline models, this project focuses on building a robust **ensemble machine learning pipeline** driven by rigorous residual analysis, subgroup error diagnostics, and iterative feature engineering.
 
